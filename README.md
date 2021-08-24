@@ -1,2 +1,2 @@
 # Business-Analysis
-Few small business Analysis projects show here.
+Few small Business analysis projects show here.
